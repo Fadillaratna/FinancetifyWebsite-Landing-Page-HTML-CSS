@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #D2AFFF;
+}
+
+.sign-up-form{
+    width: 330px;
+    background: white;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.sign-up-form h1{
+    font-family: calibri;
+    font-weight: bolder;
+    font-size: 30;
+    color: #935cf5;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.sign-up-form h2{
+    font-family: calibri;
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 10px;
+    text-align: left;
+    color: #935cf5;
+    margin-bottom: 5px;
+}
+
+.input-box{
+    border-radius: 8px;
+    padding: 9px;
+    width: 90%;
+    outline: none;
+    border: 1.5px solid grey;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    justify-content: center;
+    font-size: 15px;
+    font-family: calibri;
+    font-weight: lighter;
+}
+
+.sign-button{
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    align-items: center;
+    background-color: #935CF5; 
+    opacity: 100%; 
+    border-color: transparent;
+    color: white;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+button:active{
+    transform: scale(1.1);
+}
+
+.or{
+    font-family: calibri;
+    font-weight: lighter;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 6px;
+}
+
+.login-with-google{
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    font-family: calibri;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    align-items: center;
+    background-color: #935CF5; 
+    opacity: 100%; 
+    border-color: transparent;
+    color: white;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+.account{
+    font-family: calibri;
+    font-weight: lighter;
+    color: black;
+}
+
+a{
+    font-family: calibri;
+    font-weight: lighter;
+    color: black;
+}
+
